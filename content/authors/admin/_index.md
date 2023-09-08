@@ -61,7 +61,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: 'https://1drv.ms/b/s!AtPmMn06RCYNhJgAwQrETdjHwGooHA?e=AqSwzq'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "dmh5950@psu.edu"
@@ -77,4 +77,4 @@ Welcome! I am a doctoral candidate in economics at Penn State University.
 
 My research interests lie in urban economics, household economics, and international trade.
 
-You can contact me at dmh5950@psu.edu and find my [CV](../../files/cv.pdf) here. 
+You can contact me at dmh5950@psu.edu and find my [CV](https://1drv.ms/b/s!AtPmMn06RCYNhJgAwQrETdjHwGooHA?e=AqSwzq) here. 

@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: The Pennsylvania State University
-    year: 2025 (Expected)
+    year: 2024 (Expected)
   - course: MS in Economics
     institution:  The Pennsylvania State University
     year: 2019 

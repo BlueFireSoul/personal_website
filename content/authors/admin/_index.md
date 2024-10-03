@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: The Pennsylvania State University
-    year: 2024 (Expected)
+    year: 2025 (Expected)
   - course: MS in Economics
     institution:  The Pennsylvania State University
     year: 2019 
@@ -61,7 +61,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: 'https://1drv.ms/b/s!AtPmMn06RCYNhJgAwQrETdjHwGooHA?e=AqSwzq'
+  link: 'static/files/cv.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "dmh5950@psu.edu"

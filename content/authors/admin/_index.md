@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'dmh5950@psu.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'hedongyang00@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/twitter_handle
@@ -64,7 +64,7 @@ social:
   link: 'static/files/cv.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "dmh5950@psu.edu"
+email: "hedongyang00@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -77,4 +77,4 @@ Welcome! I am a doctoral candidate in economics at Penn State University.
 
 My research interests lie in urban economics, household economics, and international trade.
 
-You can contact me at dmh5950@psu.edu and find my [CV](static/files/cv.pdf) here. 
+You can contact me at hedongyang00@gmail.com and find my [CV](static/files/cv.pdf) here. 

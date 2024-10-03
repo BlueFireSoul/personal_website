@@ -77,4 +77,4 @@ Welcome! I am a doctoral candidate in economics at Penn State University.
 
 My research interests lie in urban economics, household economics, and international trade.
 
-You can contact me at dmh5950@psu.edu and find my [CV](https://1drv.ms/b/s!AtPmMn06RCYNhJgAwQrETdjHwGooHA?e=AqSwzq) here. 
+You can contact me at dmh5950@psu.edu and find my [CV](static/files/cv.pdf) here. 

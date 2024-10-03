@@ -5,7 +5,7 @@
 
 [[main]]
   name = "CV"
-  url = "https://1drv.ms/b/c/0d26443a7d32e6d3/EdPmMn06RCYggA0ADAEAAAABZvMc8zY2u7SIbBe8pzWZyA?e=XVx8ku"
+  url = 'files/cv.pdf'
   weight = 10
 
 #[[main]]

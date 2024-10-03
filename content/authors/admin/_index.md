@@ -61,7 +61,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: 'static/files/cv.pdf'
+  link: 'https://1drv.ms/b/c/0d26443a7d32e6d3/EdPmMn06RCYggA0ADAEAAAABZvMc8zY2u7SIbBe8pzWZyA?e=SS2Kcr'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "hedongyang00@gmail.com"
@@ -77,4 +77,4 @@ Welcome! I am a doctoral candidate in economics at Penn State University.
 
 My research interests lie in urban economics, household economics, and international trade.
 
-You can contact me at hedongyang00@gmail.com and find my [CV](static/files/cv.pdf) here. 
+You can contact me at hedongyang00@gmail.com and find my [CV](https://1drv.ms/b/c/0d26443a7d32e6d3/EdPmMn06RCYggA0ADAEAAAABZvMc8zY2u7SIbBe8pzWZyA?e=SS2Kcr) here. 

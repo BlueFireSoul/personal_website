@@ -29,7 +29,7 @@ featured: false
 
 links:
 
-url_pdf: 'files/zoning_2022.pdf'
+url_pdf: 'files/HE_jmp_zoning_2024.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

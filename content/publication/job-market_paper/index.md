@@ -29,7 +29,7 @@ featured: false
 
 links:
 
-url_pdf: ''
+url_pdf: 'files/zoning_2022.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

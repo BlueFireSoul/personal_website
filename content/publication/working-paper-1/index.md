@@ -28,7 +28,7 @@ tags:
 featured: false
 
 links:
-url_pdf: ''
+url_pdf: 'files/HE_mobility_fertility_2022.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

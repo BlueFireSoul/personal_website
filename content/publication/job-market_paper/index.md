@@ -1,5 +1,5 @@
 ---
-title: "Distributional Effects of Exclusionary Zoning Policies: Insights from the Greater Boston Area (Job Market Paper)"
+title: "Distributional Effects of Residential Zoning Policies: Insights from the Greater Boston Area (Job Market Paper)"
 authors:
 - admin
 date: "2024-10-03T00:00:00Z"

@@ -75,6 +75,6 @@ email: "hedongyang00@gmail.com"
 
 Welcome! I am a doctoral candidate in economics at Penn State University. 
 
-My research interests lie in urban economics, household economics, and international trade.
+My research interests lie in urban economics, spatial economics, and household economics. 
 
 You can contact me at hedongyang00@gmail.com and find my [CV](files/cv.pdf) here. 

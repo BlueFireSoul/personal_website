@@ -18,12 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dongyang He is a doctoral candidate in economics at Penn State University. Dongyang He has research interests in urban economics, spatial economics, household economics. 
+bio: Dongyang He is a doctoral candidate in economics at Penn State University. Dongyang He has research interests in urban/real estate economics, spatial economics, labor economics. 
 
 #interests:
 #- Urban economics
+#- Real Estate
 #- Spatial economics
-#- Household behavior
+#- Labor economics
 
 
 education:

@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in Economics
+role: Data Scientist, Research
 
 # Organizations/Affiliations
 organizations:
-- name: Pennsylvania State University
+- name: Google
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dongyang He is a doctoral candidate in economics at Penn State University. Dongyang He has research interests in urban/real estate economics, spatial economics, labor economics. 
+bio: Dongyang He is a research data scientist at Google and a PhD economist working on causal inference, economic modeling, and AI systems.
 
 #interests:
 #- Urban economics
@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: The Pennsylvania State University
-    year: 2025 (Expected)
+    year: 2025
   - course: MS in Economics
     institution:  The Pennsylvania State University
     year: 2019 
@@ -47,7 +47,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'hedongyang00@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:hedongyang00@gmail.com'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/dongyang-he-1359b36b/
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/twitter_handle
@@ -57,12 +60,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/BlueFireSoul
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below. 'files/cv.pdf'
-- icon: cv
-  icon_pack: ai
-  link: 'files/cv.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "hedongyang00@gmail.com"
@@ -74,8 +71,10 @@ email: "hedongyang00@gmail.com"
 #- Visitors
 ---
 
-Welcome! I am a doctoral candidate in economics at Penn State University. 
+Welcome! I am a research data scientist at Google, working on Ads Metrics. I received my PhD in Economics from Penn State University in 2025.
 
-My research interests lie in urban economics, spatial economics, and household economics. 
+My work spans causal inference, economic modeling, and AI systems. Previously, I was an economist at Amazon, where I worked on structural demand models, pricing experiments, and AI tools for scientific workflows.
 
-You can contact me at hedongyang00@gmail.com and find my [CV](files/cv.pdf) here. 
+My academic research focuses on urban, spatial, and household economics. My paper on residential zoning policies has received a revise and resubmit decision from the *Journal of Urban Economics*.
+
+You can reach me at [hedongyang00@gmail.com](mailto:hedongyang00@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dongyang-he-1359b36b/).

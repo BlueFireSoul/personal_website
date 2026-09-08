@@ -1,5 +1,5 @@
 ---
-title: "Distributional Effects of Residential Zoning Policies: Insights from the Greater Boston Area (Job Market Paper)"
+title: "Distributional Effects of Residential Zoning Policies: Insights from the Greater Boston Area"
 authors:
 - admin
 date: "2024-10-03T00:00:00Z"
@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Revise and resubmit, *Journal of Urban Economics*"
 publication_short: ""
 
 abstract: "This paper examines the impact of zoning policies on housing affordability and welfare inequality across income groups in the Greater Boston area. I focus on two specific regulations: Floor Area Ratio (FAR) restrictions and density regulations, both of which limit the supply of smaller, affordable housing units. Using a housing supply model, I show that these policies significantly reduce housing affordability, with the most affordable housing options at the tract level being, on average, five times more expensive under zoning constraints. To evaluate the welfare effects of these policies, I incorporate the housing supply model into a quantitative spatial equilibrium framework that captures both housing demand and supply across census tracts in the city. My results indicate that in the absence of zoning regulations, welfare for the lowest 10% income group could have been 41.6% higher, while welfare for higher-income groups would be mildly lower. Additionally, removing zoning regulations today could still increase welfare for the lowest 10% income renter group by 34.7%, but would negatively affect around 80% of current residents due to neighborhood demographic shifts. Property owners would also face declining property values, with an average decrease of 2.7% and significant variation across tracts. These findings suggest that while radical zoning reforms could enhance welfare for lower-income households and reduce inequality, they would also impose welfare losses on the majority of current residents. This research highlights the critical role of zoning policies in exacerbating housing affordability and the importance of considering distributional effects in zoning policy reforms."
@@ -29,7 +29,7 @@ featured: false
 
 links:
 
-url_pdf: 'files/HE_jmp_zoning_2024.pdf'
+url_pdf: 'files/He_JMP_zoning_2024.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

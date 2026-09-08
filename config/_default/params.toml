@@ -45,10 +45,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "The Pennsylvania State University"
+org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Dongyang He is a PhD Candidate in Economics at Penn State University"
+description = "Dongyang He is a research data scientist at Google and a PhD economist working on causal inference, economic modeling, and AI systems."
 
 ############################
 ## Site Features
@@ -88,12 +88,12 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "dmh5950@psu.edu"
-phone = "720 299 5317"
+email = "hedongyang00@gmail.com"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "303 Kern Graduate Bldg", city = "University Park", region = "PA", postcode = "16802", country = "United States", country_code = "US"}
+address = {street = "", city = "", region = "", postcode = "", country = "", country_code = ""}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

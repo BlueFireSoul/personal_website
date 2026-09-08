@@ -1,44 +1,53 @@
 +++
-# Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+widget = "experience"
+headless = true
+active = true
+weight = 40
 
 title = "Experience"
 subtitle = ""
-
-# Date format for experience
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Data Scientist, Research"
+  company = "Google"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = ""
+  date_start = "2026-06-01"
   date_end = ""
+  description = "Ads Metrics."
+
+[[experience]]
+  title = "Economist"
+  company = "Amazon"
+  company_url = ""
+  location = ""
+  date_start = "2025-02-01"
+  date_end = "2026-06-01"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Economic and Pricing Science.
+
+  - Built and deployed structural demand models to inform pricing and product strategy.
+  - Designed multi-value switchback experiments with simulation-based power analysis.
+  - Built a multi-agent LLM system to automate elasticity reviews.
+  - Advanced AI-assisted scientific workflows and automated analysis pipelines.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Economist Intern"
+  company = "Amazon"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = ""
+  date_start = "2024-05-01"
+  date_end = "2024-08-01"
+  description = "Developed a surrogate-based model to infer long-term HR outcomes from short-term experiments."
 
+[[experience]]
+  title = "Consultant"
+  company = "EBRD"
+  company_url = ""
+  location = ""
+  date_start = "2019-02-01"
+  date_end = "2019-05-01"
+  description = ""
 +++

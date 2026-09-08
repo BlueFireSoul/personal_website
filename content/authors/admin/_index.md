@@ -35,7 +35,7 @@ education:
   - course: MS in Economics
     institution:  The Pennsylvania State University
     year: 2019 
-  - course: BA in Mathematics (Honor)
+  - course: BS in Mathematics
     institution: The Pennsylvania State University
     year: 2019
 

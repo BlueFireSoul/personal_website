@@ -53,4 +53,4 @@ Validation on 2026-09-07 succeeded with Hugo Extended 0.74.3 downloaded to `/pri
 
 ## Hosting
 
-Netlify deploys this repository from `main`, runs `hugo` at the repository root, and publishes `public/` (dashboard verified 2026-09-08). Push approved updates to `main`, then check the production deployment and live pages. The Netlify configuration inside the theme directory is an upstream example; this site currently uses dashboard build settings.
+Netlify deploys this repository from `main`, runs `hugo` at the repository root, and publishes `public/` (dashboard verified 2026-09-08). Push approved updates to `main`, then check the production deployment and live pages. Root `netlify.toml` pins Hugo Extended 0.74.3 and runs `hugo --cleanDestinationDir`; the clean flag prevents stale generated files from surviving a deployment. The configuration inside the theme directory is an upstream example.

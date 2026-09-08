@@ -44,7 +44,7 @@
 
 ## Hosting and known issues
 
-- Netlify is the existing host. Dashboard settings verified on 2026-09-08: project `dongyanghe`, site ID `b5cf93ad-a2eb-4969-8bb9-6d60cef3aaa4`, GitHub repository `BlueFireSoul/personal_website`, production branch `main`, base directory `/`, build command `hugo`, publish directory `public`, builds active. No root netlify.toml or repository CI deployment workflow was found. The configuration in `themes/hugo-academic/netlify.toml` belongs to the upstream example site.
+- Netlify is the existing host. Dashboard settings verified on 2026-09-08: project `dongyanghe`, site ID `b5cf93ad-a2eb-4969-8bb9-6d60cef3aaa4`, GitHub repository `BlueFireSoul/personal_website`, production branch `main`, base directory `/`, build command `hugo`, publish directory `public`, builds active. Root `netlify.toml` now pins Hugo Extended 0.74.3 and runs `hugo --cleanDestinationDir` to remove stale output. This fixes the missing Hugo error on Netlify’s current build image. No repository CI deployment workflow was found. The configuration in `themes/hugo-academic/netlify.toml` belongs to the upstream example site.
 - Pushing to `main` triggers the existing Netlify production build. Verify the resulting deployment and live content after publishing. Recheck dashboard settings if this workflow changes.
 - Existing `static/admin/config.yml` uses Git Gateway with branch `master`, while the current checkout tracks `main`. CMS operation has not been verified.
 - The zoning paper is revise and resubmit at the Journal of Urban Economics (owner-confirmed). Keep it a working paper until its publication status changes. Its corrected PDF path is `files/He_JMP_zoning_2024.pdf`.

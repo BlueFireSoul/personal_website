@@ -1,0 +1,7 @@
+[build]
+  command = "hugo --cleanDestinationDir"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.74.3"
+  HUGO_EXTENDED = "true"

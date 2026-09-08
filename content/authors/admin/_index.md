@@ -71,10 +71,8 @@ email: "hedongyang00@gmail.com"
 #- Visitors
 ---
 
-Welcome! I am a research data scientist at Google, working on Ads Metrics. I received my PhD in Economics from Penn State University in 2025.
+Hi, I'm Dongyang. I'm a research data scientist at Google, working on Ads Metrics. My interests span causal inference, economic modeling, and AI systems.
 
-My work spans causal inference, economic modeling, and AI systems. Previously, I was an economist at Amazon, where I worked on structural demand models, pricing experiments, and AI tools for scientific workflows.
-
-My academic research focuses on urban, spatial, and household economics. My paper on residential zoning policies has received a revise and resubmit decision from the *Journal of Urban Economics*.
+My academic research explores how housing markets and spatial relationships shape people's choices and opportunities, with a focus on urban, spatial, and household economics.
 
 You can reach me at [hedongyang00@gmail.com](mailto:hedongyang00@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dongyang-he-1359b36b/).

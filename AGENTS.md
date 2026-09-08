@@ -11,7 +11,7 @@
 ## Where to make changes
 
 - `content/authors/admin/_index.md`: biography, role, education, and social links. `avatar.jpg` alongside it is the portrait.
-- `content/home/`: homepage widgets. Active sections are `about.md`, `experience.md`, `working-papers.md`, `teaching.md`, and `contact.md`, ordered by `weight` (20, 40, 100, 120, 130).
+- `content/home/`: homepage widgets. Active sections are `about.md`, `working-papers.md`, and `contact.md`, ordered by `weight` (20, 100, 130). Experience and Teaching are disabled at the owner’s request; keep their navigation links removed.
 - `content/publication/<slug>/index.md`: individual papers and their metadata, abstracts, and download links.
 - `static/files/`: paper PDFs. The owner requested removal of the CV; keep CV links and PDFs off the site. A file here is served under `/files/`, without the `static/` prefix.
 - `config.toml`: site title, relative base URL (`/`), theme selection, rendering, and taxonomies.
@@ -50,3 +50,5 @@
 - The zoning paper is revise and resubmit at the Journal of Urban Economics (owner-confirmed). Keep it a working paper until its publication status changes. Its corrected PDF path is `files/He_JMP_zoning_2024.pdf`.
 - The theme displays `publication` in paper details and list metadata; leave `publication_short` empty to show the full R&R status on the homepage.
 - Owner-confirmed updates: PhD awarded in 2025; Google research data scientist since June 2026; contact email `hedongyang00@gmail.com`. Do not restore the removed phone number, street address, or CV.
+
+- Keep the biography concise and personal rather than a résumé. Do not repeat the PhD award sentence or paper R&R announcement there; education and publication metadata retain those details.
